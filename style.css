@@ -116,3 +116,16 @@ footer {
   -webkit-flex-direction: row;
   -webkit-justify-content: center;
 }
+
+.life_fuel-label {
+  padding-top: 16px;
+  padding-bottom: 4px;
+}
+
+.life_fuel {
+  color: var(--text-color);
+  margin: 0;
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 600;
+}
